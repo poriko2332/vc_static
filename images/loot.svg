@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="150.81248mm"
+   height="93.07798mm"
+   viewBox="0 0 150.81248 93.07798"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="loot.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="DistanceEnd"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DistanceEnd"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <g
+         id="g2301"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+        <path
+           id="path2316"
+           d="M 0,0 H -2"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.15;stroke-linecap:square;stroke-opacity:1" />
+        <path
+           id="path2312"
+           d="m 0,0 -13,4 4,-4 -4,-4 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-opacity:1" />
+        <path
+           id="path2314"
+           d="M 0,-4 V 40"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-opacity:1" />
+      </g>
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Sstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path859" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="EmptyTriangleOutL"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="EmptyTriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,-4.8,0)"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1007" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="RazorWire"
+       inkscape:stockid="RazorWire"
+       inkscape:isstock="true">
+      <path
+         d="m 0.02272727,-0.74009011 v 1.4375 L -7.7585227,3.0099099 H 10.678977 L 3.4914773,0.69740989 v -1.4375 L 10.741477,-2.8963401 H -7.7272727 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.1pt;stroke-opacity:1"
+         transform="scale(0.8)"
+         id="path1079" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="240.62661"
+     inkscape:cy="185.46692"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     inkscape:snap-page="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="false"
+     inkscape:window-width="1927"
+     inkscape:window-height="1208"
+     inkscape:window-x="64"
+     inkscape:window-y="58"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid12"
+       originx="-29.699477"
+       originy="-73.60952" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-29.699478,-73.609523)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.94513;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:5.83537, 5.83537;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="M 29.699478,77.853643 H 180.51197"
+       id="path845" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.953758;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 29.699491,76.445366 c 147.042179,0 147.042179,0 147.042179,0"
+       id="path1264" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.953757;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 29.699478,79.261922 c 147.042192,0 147.042192,0 147.042192,0"
+       id="path1264-6" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="レイヤー 2"
+     transform="translate(-29.699478,-73.609523)">
+    <rect
+       style="fill:#fffff4;fill-opacity:1;stroke:#000000;stroke-width:0.947626;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1282"
+       width="24.507032"
+       height="7.5406251"
+       x="91.90963"
+       y="74.083336" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.15901px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.103975"
+       x="93.45974"
+       y="79.541397"
+       id="text1296"><tspan
+         sodipodi:role="line"
+         x="93.45974"
+         y="79.541397"
+         style="stroke-width:0.103975"
+         id="tspan1298">JR津田沼駅</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.10489;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 113.77083,84.666666 V 166.6875"
+       id="path1304" />
+    <rect
+       style="fill:#fffff4;fill-opacity:1;stroke:#000000;stroke-width:0.865;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1306"
+       width="37.041668"
+       height="47.625"
+       x="116.41666"
+       y="103.1875" />
+    <rect
+       style="fill:#fffff4;fill-opacity:1;stroke:#000000;stroke-width:0.903463;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1308"
+       width="31.75"
+       height="10.583333"
+       x="74.083328"
+       y="89.958344" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.15901px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.103975"
+       x="75.694855"
+       y="96.739334"
+       id="text1296-6"><tspan
+         sodipodi:role="line"
+         x="75.694855"
+         y="96.739334"
+         style="stroke-width:0.103975"
+         id="tspan1298-0">バスターミナル</tspan></text>
+    <rect
+       style="fill:#fffff4;fill-opacity:1;stroke:#000000;stroke-width:0.611647;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1306-4"
+       width="37.041668"
+       height="23.81251"
+       x="68.791664"
+       y="121.70834" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.15901px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.103975"
+       x="78.907654"
+       y="135.29289"
+       id="text1296-6-1"><tspan
+         sodipodi:role="line"
+         x="78.907654"
+         y="135.29289"
+         style="stroke-width:0.103975"
+         id="tspan1298-0-0">モリシア</tspan></text>
+    <rect
+       style="fill:#fffff4;fill-opacity:1;stroke:#000000;stroke-width:0.462362;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1306-4-2"
+       width="31.750006"
+       height="15.875002"
+       x="74.083328"
+       y="103.18752" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.15901px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.103975"
+       x="79.852592"
+       y="113.37026"
+       id="text1296-6-1-9"><tspan
+         sodipodi:role="line"
+         x="79.852592"
+         y="113.37026"
+         style="stroke-width:0.103975"
+         id="tspan1298-0-0-8">津田沼公園</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.5582px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.138955"
+       x="118.10786"
+       y="123.01157"
+       id="text1296-6-1-9-9"><tspan
+         sodipodi:role="line"
+         x="118.10786"
+         y="123.01157"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.5582px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;stroke-width:0.138955"
+         id="tspan1298-0-0-8-6">千葉工業大学</tspan><tspan
+         sodipodi:role="line"
+         x="118.10786"
+         y="130.35976"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.5582px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;stroke-width:0.138955"
+         id="tspan1400">津田沼</tspan><tspan
+         sodipodi:role="line"
+         x="118.10786"
+         y="137.70795"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.5582px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;stroke-width:0.138955"
+         id="tspan1402">キャンパス</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.10489;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 108.47917,84.666664 V 166.6875"
+       id="path1304-3" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.62494px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.215623"
+       x="116.85645"
+       y="88.255211"
+       id="text1296-6-1-0"><tspan
+         sodipodi:role="line"
+         x="116.85645"
+         y="88.255211"
+         style="stroke-width:0.215623"
+         id="tspan1298-0-0-9">南口</tspan></text>
+  </g>
+</svg>

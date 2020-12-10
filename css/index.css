@@ -1,0 +1,106 @@
+header {
+  text-align: center;
+}
+
+nav ul {
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+}
+
+nav ul li {
+  display: inline-block;
+  list-style-type: none;
+  background-color: coral;
+  text-align: center;
+  margin-right: 2px;
+  position: relative;
+  width: 135px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  font-weight: bold;
+  display: block;
+  padding: 15px;
+}
+
+nav ul li:hover {
+  background-color: orangered;
+}
+
+nav ul > li > ul {
+  display: none;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+}
+
+nav ul > li > ul > li {
+  width: 200px;
+  line-height: 35px;
+  border-bottom: 1px solid white;
+}
+
+nav ul > li:hover > ul {
+  display: block;
+}
+
+.title {
+  text-align: center;
+}
+
+.article {
+  display: flex;
+  justify-content: center;
+  flex-flow: column;
+}
+
+p {
+  font-size: 1.2em;
+}
+
+.flexcontainer {
+  display: flex;
+  padding: 0 20vw 0 20vw;
+}
+
+.text {
+  margin-right: 20px;
+  text-align: left;
+  flex: 1;
+}
+
+.text h2 {
+  background-color: gold;
+  margin: 0;
+}
+
+.image {
+  flex: 1;
+}
+
+.image img {
+  max-width: 100%;
+}
+
+.line {
+  border-left: 5px solid darkorange;
+  padding-left: 10px;
+}
+
+.line ul {
+  list-style-type: none;
+  padding-inline-start: 0;
+}
+
+.attention {
+  display: flex;
+  justify-content: center;
+}
+
+.attention_content {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
