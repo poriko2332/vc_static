@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="51.517632mm"
-   height="12.112335mm"
-   viewBox="0 0 51.517632 12.112335"
+   width="60.617157mm"
+   height="17.166761mm"
+   viewBox="0 0 60.617158 17.166761"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
@@ -18,10 +18,10 @@
      id="defs2">
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : -136.38767 : 1"
-       inkscape:vp_y="0 : 999.99997 : 0"
-       inkscape:vp_z="210 : -136.38767 : 1"
-       inkscape:persp3d-origin="105 : -185.88767 : 1"
+       inkscape:vp_x="0 : -131.33324 : 1"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="210 : -131.33324 : 1"
+       inkscape:persp3d-origin="105 : -180.83324 : 1"
        id="perspective14" />
   </defs>
   <sodipodi:namedview
@@ -31,11 +31,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.72426347"
-     inkscape:cx="149.2025"
-     inkscape:cy="268.74901"
+     inkscape:zoom="4.0970529"
+     inkscape:cx="111.33466"
+     inkscape:cy="37.775208"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:snap-page="false"
@@ -62,11 +62,31 @@
     </rdf:RDF>
   </metadata>
   <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="レイヤー 2"
+     transform="translate(6.1883422)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.365001;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect854"
+       width="43.71994"
+       height="4.0684729"
+       x="2.0665262"
+       y="12.915789" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.365;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path852"
+       cx="24.120235"
+       cy="9.880578"
+       rx="30.126078"
+       ry="5.4892097" />
+  </g>
+  <g
      inkscape:label="レイヤー 1"
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(-65.523505,-62.780946)">
+     transform="translate(-59.335163,-62.780946)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
